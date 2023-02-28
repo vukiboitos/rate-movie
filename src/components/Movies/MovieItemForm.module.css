@@ -1,0 +1,32 @@
+.form {
+  text-align: right;
+}
+
+.form button {
+  font: inherit;
+  cursor: pointer;
+  background-color: #8a2b06;
+  border: 1px solid #8a2b06;
+  color: white;
+  padding: 1rem 3rem;
+  border-radius: 20px;
+  font-weight: bold;
+  margin-left: 25px;
+}
+
+.form button:hover,
+.form button:active {
+  background-color: #641e03;
+  border-color: #e5d206;
+}
+.badge{
+width: 7rem;
+height: 4rem;
+
+
+}
+.badge button:hover,
+.badge button:active{
+background-color: yellow;
+border-color: #f6d013;
+}

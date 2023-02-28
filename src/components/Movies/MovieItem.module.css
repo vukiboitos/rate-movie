@@ -1,0 +1,32 @@
+.movie {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.movie h3 {
+  margin: 0 0 0.25rem 0;
+}
+
+.description {
+  font-style: italic;
+}
+
+.price {
+  margin-top: 0.25rem;
+  font-weight: bold;
+  color: #f7e11c;
+  font-size: 1.25rem;
+  
+}
+.badge{
+  width: 2rem;
+  color: #f7e11c;
+}
+.img{
+  width: 50rem;
+  height: 20rem;
+}
+  
